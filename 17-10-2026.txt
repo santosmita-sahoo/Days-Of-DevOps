@@ -1,0 +1,103 @@
+Top 100 LINUX COMMANDS:-
+
+Here is a list of 100 commonly used Linux commands with examples:
+
+1. ls: List files and directories in the current directory. 
+
+2. cd: Change directory. 
+
+3. pwd: Print the current working directory. 
+
+4. mkdir: Create a new directory. Example:
+
+5. rmdir: Remove an empty directory.
+
+6. cp: Copy files and directories. 
+
+7. mv: Move or rename files and directories.
+
+8. rm: Remove files and directories. 
+
+9. cat: Concatenate and display file content.
+
+10. less: View file content page by page. 
+
+11. head: Display the first few lines of a file. 
+
+12. tail: Display the last few lines of a file. 
+
+13. grep: Search for a pattern in files. 
+
+14. find: Search for files and directories. 
+
+15. chmod: Change file permissions. Example: 
+
+16. chown: Change file ownership. 
+
+17. tar: Archive files and directories. 
+
+18. gzip: Compress files. 
+
+19. gunzip: Decompress files compressed with gzip. 
+
+20. wget: Download files from the web. 
+
+21. curl: Transfer data from or to a server. 
+
+22. ssh: Connect to a remote server securely. 
+
+23. scp: Copy files between local and remote machines.
+
+24. ping: Send ICMP echo requests to a network host. 
+
+25. ifconfig: Display or configure network interfaces. 
+
+26. netstat: Network statistics. 
+
+27. ip: Show or manipulate routing, devices, policy routing, and tunnels. 
+
+28. route: Show or manipulate the IP routing table. 
+
+29. whois: Retrieve WHOIS information for a domain. 
+
+30. uname: Print system information. 
+
+31. ps: Display running processes. 
+
+32. top: Monitor system processes in real-time. 
+
+33. kill: Terminate processes by ID or name. 
+
+34. df: Report file system disk space usage. 
+
+35. du: Estimate file and directory space usage. 
+
+36. mount: Mount a file system or device. 
+
+37. umount: Unmount a mounted file system. 
+
+38. ln: Create hard or symbolic links. 
+
+39. echo: Print a message. 
+
+40. date: Display the current date and time. 
+
+41. history: View command history. 
+
+42. tar: Archive files and directories. 
+
+43. unzip: Extract compressed files in a ZIP format. 
+
+44. file: Determine file type.
+
+45. awk: Pattern scanning and processing language. 
+
+46. sed: Stream editor for filtering and transforming text. 
+
+47. wc: Count lines, words, and characters in a file. 
+
+48. sort: Sort lines of text. 
+
+49. diff: Compare files line by line. 
+
+50. grep: Search for a pattern in files. E
