@@ -1,0 +1,117 @@
+what is Git ?
+
+.Git is a free, open-source Version Control System (VCS) used to track changes in files and source code.
+
+why do we use Git ?
+
+.Track changes: See what changes you made in your code.
+
+.Version control: Keep a history of your project.
+
+.Undo changes: Return to a previous version if something goes wrong.
+
+.Team collaboration: Multiple developers can work on the same project.
+
+.Backup workflow: Push your code to a remote repository such as GitHub
+
+How Git Works ?
+
+Working Directory
+. Create or modify files
+
+Staging Area
+. Select changes using git add
+
+Local Repository
+. Save a version using git commit
+
+Remote Repository (GitHub)
+. Upload using git push
+
+Important Git Command :-
+
+git init - Initialize a Git repository
+git status - Check file changes
+git add . - Stage all changes in the current directory
+git commit -m "message" - Save changes in Git history 
+git log	- View commit history
+git push - Upload commits to a remote repository
+git pull - Fetch and integrate remote changes
+git clone URL - Copy a remote repository to your computer
+
+What Is Remote Repository :-
+
+. remote repository is a Git repository hosted on a server or online platform like GitHub. 
+. It allows developers to share code, back up their work, and collaborate with others.
+
+What Are The Git Steps :-
+
+. Git workflow steps
+
+1.Create or modify files :-
+
+ Write your code in the project folder.
+
+2. Initialize Git
+
+git init - Start tracking the project.
+
+3. Check status
+
+git status - See which files have changed.
+
+4 . Stage changes
+
+git add . - Select changes for the next commit.
+
+5. Commit changes
+
+git commit -m "Initial commit" - Save a snapshot in Git history.
+
+6. Connect remote repository
+
+git remote add origin <URL> - Connect your local project to GitHub.
+
+7. Push to GitHub
+
+git push -u origin main - Upload your committed changes.
+ 
+What Is Branching Strategy :- 
+
+. A branching strategy is a set of rules that defines how developers create, use, and merge branches while working on a project in Git.
+
+main branch
+ . Stable, production-ready code
+
+feature branch
+. Develop new features
+
+bugfix branch
+. Fix existing issues
+
+Common Git branching strategies :-
+
+Git Flow - Uses branches such as main, develop, feature, release, and hotfix.
+GitHub Flow - Developers create short-lived branches, open pull requests, review, and merge.
+GitLab Flow - Combines feature branches with workflows that can include environments or release branches.
+Trunk-Based Development - Developers integrate small changes frequently into a shared main branch, often using short-lived branches.
+
+Basic Git commands for branching :-
+
+Create a new branch:
+  . git branch feature-login
+
+Switch to that branch:
+. git switch feature-login
+
+Create and switch in one command:
+. git switch -c feature-login
+
+Merge the feature branch into main:
+. git switch main
+. git merge feature-login
+
+
+
+
+
