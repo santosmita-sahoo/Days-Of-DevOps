@@ -1,0 +1,45 @@
+What is the Linux File System?
+
+. A Linux file system is the way Linux organizes and stores files and directories (folders) on a computer or server.
+
+. In Linux, the root directory / is the starting point of the entire file system.
+
+. /
+. bin
+. boot
+. dev
+. etc
+. home
+. lib
+. media
+. mnt
+. opt
+. proc
+. root
+. run
+. sbin
+. tmp
+. usr
+. var
+
+. /bin Essential user commands, often linked to /usr/bin
+
+. /sbin System administration commands, often linked to /usr/sbin
+
+. /boot Files needed to start Linux
+
+. /dev Device files representing hardware and virtual devices
+
+. /proc Virtual files containing process and kernel information
+
+. /tmp Temporary files
+
+. /var Frequently changing data, such as logs
+
+. /usr Many applications, commands, and shared files
+
+. /opt Optional or third-party software
+
+. /mnt Commonly used as a temporary mount point
+
+. /media Commonly used for removable devices
