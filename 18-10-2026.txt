@@ -1,0 +1,99 @@
+51. tr: Translate or delete characters .
+
+52. cut: Remove sections from lines of files.
+
+53. du: Estimate file and directory space usage. 
+
+54. scp: Copy files between local and remote machines. 
+
+55. ssh: Connect to a remote server securely. 
+
+56. man: Display the manual page for a command. 
+
+57. info: View command information and documentation. 
+
+58. apt-get: Package handling utility for Debian-based systems. 
+
+59. yum: Package manager for RPM-based systems. 
+
+60. systemctl: Control the systemd system and service manager. 
+
+61. service: Run a System V init script.
+
+62. chown: Change file ownership.  
+
+63. chmod: Change file permissions. 
+
+64. ln: Create hard or symbolic links. 
+
+65. tee: Redirect output to multiple files or commands. 
+
+66. fg: Bring a background process to the foreground. 
+
+67. bg: Send a process to the background. 
+
+68. alias: Create an alias for a command. 
+
+69. source: Execute commands from a file in the current shell. 
+
+70. echo: Print a message.
+
+71. export: Set environment variables. `
+
+72. env: Display the current environment variables. 
+
+73. sleep: Delay for a specified amount of time. 
+
+74. su: Switch user or become superuser.
+
+75. sudo: Execute a command as the superuser. 
+
+76. passwd: Change user password. 
+
+77. useradd: Create a new user. 
+
+78. usermod: Modify user account settings. 
+
+79. groupadd: Create a new group. 
+
+80. groupmod: Modify group settings. 
+
+81. crontab: Schedule commands to run at specific times. 
+
+82. at: Execute commands at a specified time. 
+
+83. shutdown: Shutdown or restart the system. 
+
+84. reboot: Reboot the system. 
+
+85. ifconfig: Display or configure network interface .
+
+86. netstat: Network statistics.
+
+87. ip: Show or manipulate routing, devices, policy routing, and tunnels. 
+
+88. route: Show or manipulate the IP routing table. 
+
+89. iptables: Administration tool for IPv4 packet filtering and NAT.
+
+90. adduser: Interactive tool for adding new users. 
+
+91. deluser: Remove a user account and associated files. 
+
+92. passwd: Change user password. 
+
+93. crontab: Schedule commands to run at specific times.
+
+94. history: View command history. 
+
+95. file: Determine file type. 
+
+96. hostname: Print or set the system's hostname. 
+
+97. uptime: Display the system's uptime .
+
+98. dmesg: Print or control the kernel ring buffer. 
+
+99. free: Display amount of free and used memory. 
+
+100. htop: Interactive process viewer and system monitor. 
