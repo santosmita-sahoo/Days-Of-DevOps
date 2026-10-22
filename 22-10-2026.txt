@@ -1,6 +1,6 @@
 What is the Linux File System?
 
-. A Linux file system is the way Linux organizes and stores files and directories (folders) on a computer or server.
+. A Linux file system is the way Linux organizes and stores files and directories on a computer or server.
 
 . In Linux, the root directory / is the starting point of the entire file system.
 
